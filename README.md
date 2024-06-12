@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ I'm looking to create some interesting things.
 
 
-+ ![sumy7](https://komarev.com/ghpvc/?username=zevinexu)
