@@ -1,4 +1,4 @@
-## Hi there ZevineXu
+## Hi there is ZevineXu
 
 <!--
 **ZevineXu/ZevineXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
