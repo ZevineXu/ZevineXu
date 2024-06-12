@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ I'm looking to create some interesting things.
 
 
-+ ![sumy7](https://komarev.com/ghpvc/?username=sumy7)
-+ ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
++ ![sumy7](https://komarev.com/ghpvc/?username=zevinexu)
