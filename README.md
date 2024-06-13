@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m Interested in Adversarial Attack & Defense
 - 💬 Ask me about anything you like
 - 📫 How to reach me: Gmail: xu.zhi.dut@gmail.com VX: zevinexu2022
-- ⚡ I'm looking to create some interesting things.
+- ⚡ I’m eager to engage in some exciting endeavors.
 
 
